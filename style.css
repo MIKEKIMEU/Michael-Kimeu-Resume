@@ -55,3 +55,7 @@ h3 {
     #mainLeft {
         border-right: 1px solid lightgray;
     }
+main{
+    background: black;
+    color: white
+}
